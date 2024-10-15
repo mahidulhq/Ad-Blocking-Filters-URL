@@ -31,11 +31,6 @@ Here are some ad-blocking filters for dummies, use them on the Bromite browser a
   [https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt)  
   Copy: `https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt`
 
-
-- **Fanboy's Enhanced Tracking List:**  
-  [https://easylist.to/easylist/fanboy-enhanced-trackers.txt](https://easylist.to/easylist/fanboy-enhanced-trackers.txt)  
-  Copy: `https://easylist.to/easylist/fanboy-enhanced-trackers.txt`
-
 - **Disconnect.me Privacy List:**  
   [https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt](https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt)  
   Copy: `https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt`
@@ -58,24 +53,9 @@ Here are some ad-blocking filters for dummies, use them on the Bromite browser a
   [https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt](https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt)  
   Copy: `https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt`
 
-
-- **ABPindo (Indonesia):**  
-  [https://abpindo.surabayauniversity.net/abpindo.txt](https://abpindo.surabayauniversity.net/abpindo.txt)  
-  Copy: `https://abpindo.surabayauniversity.net/abpindo.txt`
-
 - **Liste FR (France):**  
   [https://easylist-downloads.adblockplus.org/liste_fr.txt](https://easylist-downloads.adblockplus.org/liste_fr.txt)  
   Copy: `https://easylist-downloads.adblockplus.org/liste_fr.txt`
-
-- **ChinaList:**  
-  [https://easylist-downloads.adblockplus.org/chinalist.txt](https://easylist-downloads.adblockplus.org/chinalist.txt)  
-  Copy: `https://easylist-downloads.adblockplus.org/chinalist.txt`
-
-
-- **Fanboy’s Anti-Facebook List:**  
-  [https://easylist.to/easylist/fanboy-antifacebook.txt](https://easylist.to/easylist/fanboy-antifacebook.txt)  
-  Copy: `https://easylist.to/easylist/fanboy-antifacebook.txt`
-
 
 - **Peter Lowe’s Ad and Tracking Server List:**  
   [https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext)  
