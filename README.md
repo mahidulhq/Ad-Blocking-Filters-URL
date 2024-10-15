@@ -1,4 +1,4 @@
-# Ad Blocking Filters URL
+# ‼ Ad Blocking Filters URL
 Here are some ad-blocking filters for dummies, use them on the Bromite browser and any other. 
 
 
@@ -76,7 +76,7 @@ Here are some ad-blocking filters for dummies, use them on the Bromite browser a
 
 
 
-## Websites for Ad-Blocking Filters and Resources:
+## 🚨 Websites for Ad-Blocking Filters and Resources:
 
  **[EasyList (Official Website)](https://easylist.to)**  
   
